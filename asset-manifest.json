@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/cityplots_task/static/css/main.f3193dab.css",
+    "main.js": "/cityplots_task/static/js/main.8434da21.js",
+    "static/media/Homebanner.webp": "/cityplots_task/static/media/Homebanner.ef92985bce1beeab8b34.webp",
+    "static/media/faq.webp": "/cityplots_task/static/media/faq.5f243783ff497c2f066c.webp",
+    "static/media/cultivating- pros-mangofarmland3.webp": "/cityplots_task/static/media/cultivating- pros-mangofarmland3.db9e092a53f1026e3528.webp",
+    "static/media/holidaysfarm-logo.png": "/cityplots_task/static/media/holidaysfarm-logo.b84d160da53fa23b7de0.png",
+    "static/media/15.webp": "/cityplots_task/static/media/15.3fbeee6be27f4a733a6f.webp",
+    "static/media/14.webp": "/cityplots_task/static/media/14.a9fb602e500b7adada18.webp",
+    "static/media/5.webp": "/cityplots_task/static/media/5.f2ad586a0c285854b0ce.webp",
+    "static/media/cultivating- pros-mangofarmland1.webp": "/cityplots_task/static/media/cultivating- pros-mangofarmland1.dbc37362e3ea2d162465.webp",
+    "static/media/tiruttani-mango-farm2.webp": "/cityplots_task/static/media/tiruttani-mango-farm2.3f37dac58c710cfc1db3.webp",
+    "static/media/7.webp": "/cityplots_task/static/media/7.435bf8a3fc1ea4024cda.webp",
+    "static/media/13.webp": "/cityplots_task/static/media/13.567e5241ed823ea5e869.webp",
+    "static/media/cultivating- pros-mangofarmland2.webp": "/cityplots_task/static/media/cultivating- pros-mangofarmland2.108ecc038180fe90df98.webp",
+    "static/media/3.webp": "/cityplots_task/static/media/3.231d375a4fc2acbdfafc.webp",
+    "static/media/tiruttani-mango-farm3.webp": "/cityplots_task/static/media/tiruttani-mango-farm3.18260509ea27b4fab4e7.webp",
+    "static/media/2.webp": "/cityplots_task/static/media/2.99ed4a5b9cfc298113ca.webp",
+    "static/media/tiruttani-mango-farm1.webp": "/cityplots_task/static/media/tiruttani-mango-farm1.9d0e967f2907f3342872.webp",
+    "static/media/1.webp": "/cityplots_task/static/media/1.0812a53b775c5fbb1117.webp",
+    "static/media/6.webp": "/cityplots_task/static/media/6.a548cadb70a39700a7fb.webp",
+    "static/media/2.png": "/cityplots_task/static/media/2.f362e722950cccc4c607.png",
+    "static/media/grass-1.png": "/cityplots_task/static/media/grass-1.414d420744b9e871343b.png",
+    "static/media/grass.png": "/cityplots_task/static/media/grass.414d420744b9e871343b.png",
+    "static/media/c-action.webp": "/cityplots_task/static/media/c-action.e5f2c673b5f104879341.webp",
+    "static/media/slick.svg": "/cityplots_task/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/arrow.webp": "/cityplots_task/static/media/arrow.b11c8cf36860e5776520.webp",
+    "static/media/slick.eot": "/cityplots_task/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/cityplots_task/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/cityplots_task/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/cityplots_task/index.html",
+    "main.f3193dab.css.map": "/cityplots_task/static/css/main.f3193dab.css.map",
+    "main.8434da21.js.map": "/cityplots_task/static/js/main.8434da21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3193dab.css",
+    "static/js/main.8434da21.js"
+  ]
+}
