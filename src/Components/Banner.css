@@ -1,0 +1,53 @@
+.bg-video {
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    margin-bottom: -78px;
+}
+.counting-items {
+    margin-top: -100px;
+    background-color: #F5F5F5;
+}
+.counting-items .flot {
+    float: left;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 28px;
+}
+.counting-items .row {
+    padding: 20px 0px;
+    border-radius: 0px;
+    border-width: 0px;
+    position: relative;
+    z-index: 1;
+    background: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: rgb(255, 205, 9);
+}
+.number {
+    padding: revert;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+.number h3 {
+    font-size: 16px;
+    font-weight: 500 !important;
+}
+.number .line {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background: linear-gradient(45deg, rgba(139, 31, 183, 0), rgb(239, 180, 67), rgba(101, 79, 255, 0.02));
+    width: 1px;
+    height: 100%;
+}
+.number span {
+    font-size: 39px;
+    letter-spacing: 0px;
+    font-weight: 600;
+    margin: 10px 0px 6px;
+    position: relative;
+}

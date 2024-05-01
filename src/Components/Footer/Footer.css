@@ -1,0 +1,143 @@
+/* Footer styles */
+  .footer {
+    float: left;
+    width: 100%;
+    padding: 80px 0px;
+    overflow: hidden;
+    position: relative;
+    background: rgb(0, 0, 0);
+  }
+  .footer-1 {
+    margin-top: -105px;
+    padding-top: 110px;
+}
+  .footer p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  .log-det p {
+    font-size: 14px;
+    line-height: 24px;
+    width: 100%;
+    float: left;
+    margin: 25px 0px;
+    color: #fff;
+}
+  
+  .footer-details h2 {
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-weight: 500 !important;
+  }
+  
+  .footer-details a {
+    text-decoration: none;
+    display: block;
+    font-size: 15px;
+    padding: 0px 0px 15px 15px;
+    position: relative;
+    background: none;
+    transition: all 0.4s ease 0s;
+    color: #fff;
+  }
+  .footer-details a:hover {
+    font-weight: 500;
+    transition: all 0.4s ease 0s;
+    color: rgb(239, 180, 67);
+    padding-left: 26px;
+    text-decoration: none;
+}
+  .footer-details a::before {
+    position: absolute;
+    content: "";
+    left: -1px;
+    top: 10px;
+    transition: all 0.4s ease 0s;
+}
+.footer-details a::after {
+  position: absolute;
+  content: "";
+  background: url(../../Images/arrow.webp) 0% 0% / cover;
+  left: -4px;
+  top: 6px;
+  width: 10px;
+  height: 10px;
+  filter: invert(1);
+}
+  .footer-details a:hover {
+    text-decoration: underline;
+}
+
+  .cpy-right-top {
+    width: 100%;
+    float: left;
+    background: rgb(0, 0, 0);
+}
+  .cpy-right-top .row {
+    float: left;
+    width: 100%;
+    border-top: 1px solid rgb(73, 74, 86);
+    padding: 40px 0px 20px;
+}
+  /* .cpy-right-top h3 {
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 20px;
+  } */
+  .cpy-right-top h3 {
+    font-size: 14px;
+    color: #fff;
+    font-weight: 400 !important;
+}
+  .log-det img {
+    float: left;
+    height: 100px;
+    object-fit: cover;
+}
+.footer-follow {
+  display: flex;
+  justify-content: center;
+  padding-left: 12px;
+  position: relative;
+  top: 4px;
+}
+.footer-follow ul{
+  list-style: none;
+}
+.footer-follow li {
+  float: left;
+  width: auto;
+  padding: 0px 7px;
+}
+.footer-follow .iconStyle {
+  float: left;
+  font-size: 13px;
+  border: 1px solid rgb(255, 255, 255);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  transition: all 0.4s ease 0s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  margin-right: 17px;
+}
+
+.footer-follow .iconStyle:hover{
+  background: rgb(255, 222, 106);
+  transition: all 0.4s ease 0s;
+  border: 1px solid rgb(60, 61, 220);
+  color: rgb(0, 0, 0);
+}
+.privacy{
+  float: right;
+}
+.privacy p{
+  font-size: 13px;
+  margin-right: 10px;
+  color: #fff;
+  font-weight: 5-00;
+  margin: 0;
+}

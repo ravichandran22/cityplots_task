@@ -1,0 +1,86 @@
+.CallToAction{
+    position: relative;
+}
+.action .CallToAction {
+    left: -17px;
+    top: 0px;
+    height: 100%;
+}
+.action {
+    background: rgb(252, 237, 213);
+    padding: 20px 0px 68px;
+}
+.action .float {
+    float: left;
+    width: 100%;
+    margin-bottom: 28px;
+}
+.action .position-absolute{
+    left: -17px;
+    top: 0px;
+    height: 100%;
+}
+.action .row {
+    justify-content: end;
+}
+.action img {
+    height: 100%;
+    width: 84%;
+    object-fit: cover;
+}
+.action .CallToAction {
+    left: -17px;
+    top: 0px;
+    height: 100%;
+}
+.action i{
+    color: rgb(0, 0, 0);
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    text-align: center;
+    line-height: 38px;
+    animation: 2s ease 0s infinite normal none running blink;
+    box-shadow: rgb(173, 138, 205) 0px 0px 0px;
+    padding-left: 5px;
+    border: 1px dashed rgb(255, 255, 255);
+    margin-left: -20px;
+    z-index: 1;
+    position: relative;
+    background: rgb(254, 204, 9);
+}
+.action p span {
+    margin-bottom: 0px;
+    padding: 0px;
+    font-size: 21px;
+    margin-top: 10px;
+    position: absolute;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.action .theme-btn {
+    left: 0px;
+    float: left;
+    width: 100%;
+    top: 40px;
+}
+.theme-btn {
+    border-radius: 10px;
+    margin: 0px;
+    position: relative;
+}
+.action .theme-btn a {
+    border: 2px dashed;
+}
+.theme-btn a{
+    color: rgb(0, 0, 0);
+    padding: 15px 29px;
+    display: inline-block;
+    font-weight: 600;
+    border-radius: 10px;
+    border: 2px solid rgb(255, 205, 9);
+    transition: all 0.5s ease 0s;
+    text-decoration: none !important;
+}
+
